@@ -1,0 +1,9 @@
+total 60
+drwxrwxr-x 3 yuki yuki  4096 Thg 10 17 09:09 .
+drwxrwxr-x 4 yuki yuki  4096 Thg 10 17 07:41 ..
+-rwxrwxr-x 1 yuki yuki 16480 Thg 10 17 08:28 ifconfig
+-rw-rw-r-- 1 yuki yuki  1194 Thg 10 17 08:53 ifconfig.c
+-rwxrwxr-x 1 yuki yuki 16520 Thg 10 17 09:09 list
+-rw-rw-r-- 1 yuki yuki  1193 Thg 10 17 09:09 list.c
+-rw-rw-r-- 1 yuki yuki     0 Thg 10 17 09:09 ls.out
+drwxrwxr-x 2 yuki yuki  4096 Thg 10 17 08:12 .vscode

@@ -1,0 +1,12 @@
+10.70.5.95 ducanh
+127.0.0.1 huan
+127.0.0.1 alo
+10.70.5.95 motconvit
+10.70.5.95 haiconvit
+127.0.0.1 huan
+127.0.0.1 exit
+127.0.0.1 exit
+10.70.5.95 baconvit
+10.70.5.95 bonconvit
+10.70.5.95 namconvit
+10.70.5.95 motconvit

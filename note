@@ -1,0 +1,3 @@
+recv from udp
+tcp port 5000 gui danh sach chua ten va ip bang tcp(dung udp thi kem bao mat hon)
+
